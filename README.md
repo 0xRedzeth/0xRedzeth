@@ -2,7 +2,7 @@
 <p align="center">
   
   <img 
-    src="https://drive.google.com/uc?export=view&id=1jbxBBF6265EwA1QSQWXd5YWEhjssrFNq" 
+    src="https://i.imgur.com/mMbcUhZ.jpeg" 
     alt="0xredzeth Banner" 
     width="800" 
     style="border-radius: 8px;"
