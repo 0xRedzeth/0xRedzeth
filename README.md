@@ -1,6 +1,5 @@
 <!-- Centered Banner -->
 <p align="center">
-  
   <img 
     src="https://i.imgur.com/mMbcUhZ.jpeg" 
     alt="0xredzeth Banner" 
