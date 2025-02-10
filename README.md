@@ -5,7 +5,6 @@
     src="https://i.imgur.com/mMbcUhZ.jpeg" 
     alt="0xredzeth Banner" 
     width="400" 
-    style="border-radius: 8px;"
   />
 </p>
 
