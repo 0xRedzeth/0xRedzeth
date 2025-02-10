@@ -1,4 +1,4 @@
-<!-- Centered Banner -->
+<!-- BANNER -->
 <p align="center">
   <img 
     src="https://i.imgur.com/mMbcUhZ.jpeg" 
@@ -7,20 +7,29 @@
   />
 </p>
 
-<!-- Title & Subtitle -->
+<!-- TITLE & SUBTITLE -->
 <h1 align="center">gmilady, I'm 0xredzeth</h1>
 <p align="center"><strong>Front-end Developer & UI/UX Designer</strong></p>
 
 ---
 
-## About Me
-- Passionate about creating engaging user interfaces  
-- Focused on responsive, fast, and user-friendly web apps  
-- Always exploring new design and frontend techniques  
+## 👋 About Me
+- 🎨 Passionate about creating engaging user interfaces  
+- ⚡ Focused on responsive, fast, and user-friendly web apps  
+- 🔎 Always exploring new design and frontend techniques  
+- 🧠 Currently learning more about Next.js and advanced React patterns  
 
 ---
 
-<h3 align="center">Skills & Tools</h3>
+## 🚀 Featured Projects
+- **[Project One](#)** – A brief description or tagline of what this project does (UI/UX focus).  
+- **[Project Two](#)** – Another project or portfolio piece worth highlighting.
+
+*(Remplace les liens `(#)` par les URLs de tes projets ou de tes dépôts.)*
+
+---
+
+## 🛠️ Skills & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -32,7 +41,7 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+## 📊 GitHub Stats
 <p align="center">
   <img 
        src="https://github-readme-stats.vercel.app/api?username=0xRedzeth&show_icons=true&theme=radical&hide_border=true" 
@@ -46,9 +55,18 @@
   />
 </p>
 
+<!-- GitHub Trophies (optionnel) -->
+<p align="center">
+  <img 
+       src="https://github-profile-trophy.vercel.app/?username=0xRedzeth&theme=onedark&no-frame=true&row=1&column=6" 
+       alt="GitHub Trophies"
+       width="550"
+  />
+</p>
+
 ---
 
-<h3 align="center">Contact Me</h3>
+## 🤝 How to Reach Me
 <p align="center">
   <a href="mailto:0xredzeth@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -59,4 +77,12 @@
   <a href="https://t.me/Slashheth" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for stopping by! ⭐
+  <br/>
+  <em>Feel free to check out my work or get in touch.</em>
 </p>
