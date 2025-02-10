@@ -21,12 +21,6 @@
 
 ---
 
-## 🚀 Featured Projects
-- **[Project One](#)** – A brief description or tagline of what this project does (UI/UX focus).  
-- **[Project Two](#)** – Another project or portfolio piece worth highlighting.
-
-*(Remplace les liens `(#)` par les URLs de tes projets ou de tes dépôts.)*
-
 ---
 
 ## 🛠️ Skills & Tools
